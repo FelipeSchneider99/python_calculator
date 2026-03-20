@@ -1,7 +1,7 @@
 from tkinter import *
 from math import sqrt
 
-#Funções
+#Functions
 def clear():
     display.delete(0, END)
 
